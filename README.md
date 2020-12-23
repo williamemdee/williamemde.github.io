@@ -3,14 +3,14 @@
 This is a starter page. It is yours to make whatever you want of it.
 There is one email set up for this domain, [william@williamemde.com](mailto:william@williamemde.com), which fowards to your williamemde@gmail.com email.
 
-> All the info below shows you the basics of what this template looks like for various types of text, links, etc.
+> _All the info below shows you the basics of what this template looks like for various types of text, links, etc._
 > 
-> You can also change your template.
+> _You can also change your template._
 > 
-> Have fun!
+> _Have fun!_
 > 
-> Love,
-> Mom & Dad
+> _Love,_
+> _Mom & Dad_
 
 
 ## Welcome to GitHub Pages
