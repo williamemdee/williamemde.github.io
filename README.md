@@ -1,3 +1,8 @@
+# Welcome to your own domain, William
+
+This is a starter page. It is yours to make whatever you want of it.
+There is one email set up for this domain, [william@williamemde.com](mailto:william@williamemde.com), which fowards to your williamemde@gmail.com email.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/williamemde/williamemde.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
