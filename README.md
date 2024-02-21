@@ -1,23 +1,9 @@
-# Welcome to your own domain, William
-
-This is a starter page. It is yours to make whatever you want of it.
-There is one email set up for this domain, [william@williamemde.com](mailto:william@williamemde.com), which fowards to your williamemde@gmail.com email.
-
-> _All the info below shows you the basics of what this template looks like for various types of text, links, etc._
-> 
-> _You can also change your template._
-> 
-> _Have fun!_
-> 
-> _Love,_
-> _Mom & Dad_
+# make a heading with my name and photos
+William Emde
 
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/williamemde/williamemde.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
